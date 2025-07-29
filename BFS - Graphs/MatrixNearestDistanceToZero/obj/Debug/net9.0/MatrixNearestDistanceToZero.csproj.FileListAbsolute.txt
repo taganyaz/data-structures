@@ -1,0 +1,14 @@
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\bin\Debug\net9.0\MatrixNearestDistanceToZero.exe
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\bin\Debug\net9.0\MatrixNearestDistanceToZero.deps.json
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\bin\Debug\net9.0\MatrixNearestDistanceToZero.runtimeconfig.json
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\bin\Debug\net9.0\MatrixNearestDistanceToZero.dll
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\bin\Debug\net9.0\MatrixNearestDistanceToZero.pdb
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\obj\Debug\net9.0\MatrixNearestDistanceToZero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\obj\Debug\net9.0\MatrixNearestDistanceToZero.AssemblyInfoInputs.cache
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\obj\Debug\net9.0\MatrixNearestDistanceToZero.AssemblyInfo.cs
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\obj\Debug\net9.0\MatrixNearestDistanceToZero.csproj.CoreCompileInputs.cache
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\obj\Debug\net9.0\MatrixNearestDistanceToZero.dll
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\obj\Debug\net9.0\refint\MatrixNearestDistanceToZero.dll
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\obj\Debug\net9.0\MatrixNearestDistanceToZero.pdb
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\obj\Debug\net9.0\MatrixNearestDistanceToZero.genruntimeconfig.cache
+D:\Data\InterviewPrep\BFS - Graphs\MatrixNearestDistanceToZero\obj\Debug\net9.0\ref\MatrixNearestDistanceToZero.dll

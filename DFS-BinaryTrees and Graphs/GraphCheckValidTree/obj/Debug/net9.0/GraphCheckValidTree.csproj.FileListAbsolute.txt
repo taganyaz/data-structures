@@ -1,0 +1,14 @@
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\bin\Debug\net9.0\GraphCheckValidTree.exe
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\bin\Debug\net9.0\GraphCheckValidTree.deps.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\bin\Debug\net9.0\GraphCheckValidTree.runtimeconfig.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\bin\Debug\net9.0\GraphCheckValidTree.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\bin\Debug\net9.0\GraphCheckValidTree.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\obj\Debug\net9.0\GraphCheckValidTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\obj\Debug\net9.0\GraphCheckValidTree.AssemblyInfoInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\obj\Debug\net9.0\GraphCheckValidTree.AssemblyInfo.cs
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\obj\Debug\net9.0\GraphCheckValidTree.csproj.CoreCompileInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\obj\Debug\net9.0\GraphCheckValidTree.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\obj\Debug\net9.0\refint\GraphCheckValidTree.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\obj\Debug\net9.0\GraphCheckValidTree.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\obj\Debug\net9.0\GraphCheckValidTree.genruntimeconfig.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\GraphCheckValidTree\obj\Debug\net9.0\ref\GraphCheckValidTree.dll

@@ -1,0 +1,14 @@
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\bin\Debug\net9.0\GridWordSearch.exe
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\bin\Debug\net9.0\GridWordSearch.deps.json
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\bin\Debug\net9.0\GridWordSearch.runtimeconfig.json
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\bin\Debug\net9.0\GridWordSearch.dll
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\bin\Debug\net9.0\GridWordSearch.pdb
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\obj\Debug\net9.0\GridWordSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\obj\Debug\net9.0\GridWordSearch.AssemblyInfoInputs.cache
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\obj\Debug\net9.0\GridWordSearch.AssemblyInfo.cs
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\obj\Debug\net9.0\GridWordSearch.csproj.CoreCompileInputs.cache
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\obj\Debug\net9.0\GridWordSearch.dll
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\obj\Debug\net9.0\refint\GridWordSearch.dll
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\obj\Debug\net9.0\GridWordSearch.pdb
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\obj\Debug\net9.0\GridWordSearch.genruntimeconfig.cache
+D:\Data\InterviewPrep\Backtracking\GridWordSearch\obj\Debug\net9.0\ref\GridWordSearch.dll

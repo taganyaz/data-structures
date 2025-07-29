@@ -1,0 +1,14 @@
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\bin\Debug\net9.0\SumOfNodesTilt.exe
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\bin\Debug\net9.0\SumOfNodesTilt.deps.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\bin\Debug\net9.0\SumOfNodesTilt.runtimeconfig.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\bin\Debug\net9.0\SumOfNodesTilt.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\bin\Debug\net9.0\SumOfNodesTilt.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\obj\Debug\net9.0\SumOfNodesTilt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\obj\Debug\net9.0\SumOfNodesTilt.AssemblyInfoInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\obj\Debug\net9.0\SumOfNodesTilt.AssemblyInfo.cs
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\obj\Debug\net9.0\SumOfNodesTilt.csproj.CoreCompileInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\obj\Debug\net9.0\SumOfNodesTilt.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\obj\Debug\net9.0\refint\SumOfNodesTilt.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\obj\Debug\net9.0\SumOfNodesTilt.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\obj\Debug\net9.0\SumOfNodesTilt.genruntimeconfig.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\SumOfNodesTilt\obj\Debug\net9.0\ref\SumOfNodesTilt.dll

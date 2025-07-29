@@ -1,0 +1,14 @@
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\bin\Debug\net9.0\KnightMoveInInfiniteChessboard.exe
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\bin\Debug\net9.0\KnightMoveInInfiniteChessboard.deps.json
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\bin\Debug\net9.0\KnightMoveInInfiniteChessboard.runtimeconfig.json
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\bin\Debug\net9.0\KnightMoveInInfiniteChessboard.dll
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\bin\Debug\net9.0\KnightMoveInInfiniteChessboard.pdb
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\obj\Debug\net9.0\KnightMoveInInfiniteChessboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\obj\Debug\net9.0\KnightMoveInInfiniteChessboard.AssemblyInfoInputs.cache
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\obj\Debug\net9.0\KnightMoveInInfiniteChessboard.AssemblyInfo.cs
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\obj\Debug\net9.0\KnightMoveInInfiniteChessboard.csproj.CoreCompileInputs.cache
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\obj\Debug\net9.0\KnightMoveInInfiniteChessboard.dll
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\obj\Debug\net9.0\refint\KnightMoveInInfiniteChessboard.dll
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\obj\Debug\net9.0\KnightMoveInInfiniteChessboard.pdb
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\obj\Debug\net9.0\KnightMoveInInfiniteChessboard.genruntimeconfig.cache
+D:\Data\InterviewPrep\BFS - Graphs\KnightMoveInInfiniteChessboard\obj\Debug\net9.0\ref\KnightMoveInInfiniteChessboard.dll

@@ -1,0 +1,14 @@
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\bin\Debug\net9.0\ZigzagLevelOrderTraversal.exe
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\bin\Debug\net9.0\ZigzagLevelOrderTraversal.deps.json
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\bin\Debug\net9.0\ZigzagLevelOrderTraversal.runtimeconfig.json
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\bin\Debug\net9.0\ZigzagLevelOrderTraversal.dll
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\bin\Debug\net9.0\ZigzagLevelOrderTraversal.pdb
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\obj\Debug\net9.0\ZigzagLevelOrderTraversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\obj\Debug\net9.0\ZigzagLevelOrderTraversal.AssemblyInfoInputs.cache
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\obj\Debug\net9.0\ZigzagLevelOrderTraversal.AssemblyInfo.cs
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\obj\Debug\net9.0\ZigzagLevelOrderTraversal.csproj.CoreCompileInputs.cache
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\obj\Debug\net9.0\ZigzagLevelOrderTraversal.dll
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\obj\Debug\net9.0\refint\ZigzagLevelOrderTraversal.dll
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\obj\Debug\net9.0\ZigzagLevelOrderTraversal.pdb
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\obj\Debug\net9.0\ZigzagLevelOrderTraversal.genruntimeconfig.cache
+D:\Data\InterviewPrep\BFS\ZigzagLevelOrderTraversal\obj\Debug\net9.0\ref\ZigzagLevelOrderTraversal.dll

@@ -1,0 +1,14 @@
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\bin\Debug\net9.0\CaptureRegion.exe
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\bin\Debug\net9.0\CaptureRegion.deps.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\bin\Debug\net9.0\CaptureRegion.runtimeconfig.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\bin\Debug\net9.0\CaptureRegion.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\bin\Debug\net9.0\CaptureRegion.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\obj\Debug\net9.0\CaptureRegion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\obj\Debug\net9.0\CaptureRegion.AssemblyInfoInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\obj\Debug\net9.0\CaptureRegion.AssemblyInfo.cs
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\obj\Debug\net9.0\CaptureRegion.csproj.CoreCompileInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\obj\Debug\net9.0\CaptureRegion.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\obj\Debug\net9.0\refint\CaptureRegion.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\obj\Debug\net9.0\CaptureRegion.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\obj\Debug\net9.0\CaptureRegion.genruntimeconfig.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\CaptureRegion\obj\Debug\net9.0\ref\CaptureRegion.dll

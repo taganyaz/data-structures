@@ -1,0 +1,14 @@
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\bin\Debug\net9.0\BSTChecker.exe
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\bin\Debug\net9.0\BSTChecker.deps.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\bin\Debug\net9.0\BSTChecker.runtimeconfig.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\bin\Debug\net9.0\BSTChecker.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\bin\Debug\net9.0\BSTChecker.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\obj\Debug\net9.0\BSTChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\obj\Debug\net9.0\BSTChecker.AssemblyInfoInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\obj\Debug\net9.0\BSTChecker.AssemblyInfo.cs
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\obj\Debug\net9.0\BSTChecker.csproj.CoreCompileInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\obj\Debug\net9.0\BSTChecker.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\obj\Debug\net9.0\refint\BSTChecker.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\obj\Debug\net9.0\BSTChecker.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\obj\Debug\net9.0\BSTChecker.genruntimeconfig.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\BSTChecker\obj\Debug\net9.0\ref\BSTChecker.dll

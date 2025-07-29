@@ -1,0 +1,14 @@
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\bin\Debug\net9.0\CountGoodNodes.exe
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\bin\Debug\net9.0\CountGoodNodes.deps.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\bin\Debug\net9.0\CountGoodNodes.runtimeconfig.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\bin\Debug\net9.0\CountGoodNodes.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\bin\Debug\net9.0\CountGoodNodes.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\obj\Debug\net9.0\CountGoodNodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\obj\Debug\net9.0\CountGoodNodes.AssemblyInfoInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\obj\Debug\net9.0\CountGoodNodes.AssemblyInfo.cs
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\obj\Debug\net9.0\CountGoodNodes.csproj.CoreCompileInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\obj\Debug\net9.0\CountGoodNodes.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\obj\Debug\net9.0\refint\CountGoodNodes.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\obj\Debug\net9.0\CountGoodNodes.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\obj\Debug\net9.0\CountGoodNodes.genruntimeconfig.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\CountGoodNodes\obj\Debug\net9.0\ref\CountGoodNodes.dll

@@ -1,0 +1,14 @@
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\bin\Debug\net9.0\MaxDepth.exe
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\bin\Debug\net9.0\MaxDepth.deps.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\bin\Debug\net9.0\MaxDepth.runtimeconfig.json
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\bin\Debug\net9.0\MaxDepth.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\bin\Debug\net9.0\MaxDepth.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\obj\Debug\net9.0\MaxDepth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\obj\Debug\net9.0\MaxDepth.AssemblyInfoInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\obj\Debug\net9.0\MaxDepth.AssemblyInfo.cs
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\obj\Debug\net9.0\MaxDepth.csproj.CoreCompileInputs.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\obj\Debug\net9.0\MaxDepth.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\obj\Debug\net9.0\refint\MaxDepth.dll
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\obj\Debug\net9.0\MaxDepth.pdb
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\obj\Debug\net9.0\MaxDepth.genruntimeconfig.cache
+D:\Data\InterviewPrep\DFS-BinaryTrees\MaxDepth\obj\Debug\net9.0\ref\MaxDepth.dll

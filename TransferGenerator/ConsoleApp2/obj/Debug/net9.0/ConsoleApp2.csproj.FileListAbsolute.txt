@@ -1,0 +1,15 @@
+D:\Data\Learn\AI Agents\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.exe
+D:\Data\Learn\AI Agents\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.deps.json
+D:\Data\Learn\AI Agents\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.runtimeconfig.json
+D:\Data\Learn\AI Agents\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.dll
+D:\Data\Learn\AI Agents\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.pdb
+D:\Data\Learn\AI Agents\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Learn\AI Agents\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Data\Learn\AI Agents\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfo.cs
+D:\Data\Learn\AI Agents\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Data\Learn\AI Agents\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.dll
+D:\Data\Learn\AI Agents\ConsoleApp2\obj\Debug\net9.0\refint\ConsoleApp2.dll
+D:\Data\Learn\AI Agents\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.pdb
+D:\Data\Learn\AI Agents\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.genruntimeconfig.cache
+D:\Data\Learn\AI Agents\ConsoleApp2\obj\Debug\net9.0\ref\ConsoleApp2.dll
+D:\Data\Learn\AI Agents\ConsoleApp2\bin\Debug\net9.0\config.json

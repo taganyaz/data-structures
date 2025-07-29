@@ -1,0 +1,14 @@
+D:\Data\InterviewPrep\TransferSchedules\bin\Debug\net9.0\TransferSchedules.exe
+D:\Data\InterviewPrep\TransferSchedules\bin\Debug\net9.0\TransferSchedules.deps.json
+D:\Data\InterviewPrep\TransferSchedules\bin\Debug\net9.0\TransferSchedules.runtimeconfig.json
+D:\Data\InterviewPrep\TransferSchedules\bin\Debug\net9.0\TransferSchedules.dll
+D:\Data\InterviewPrep\TransferSchedules\bin\Debug\net9.0\TransferSchedules.pdb
+D:\Data\InterviewPrep\TransferSchedules\obj\Debug\net9.0\TransferSchedules.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\InterviewPrep\TransferSchedules\obj\Debug\net9.0\TransferSchedules.AssemblyInfoInputs.cache
+D:\Data\InterviewPrep\TransferSchedules\obj\Debug\net9.0\TransferSchedules.AssemblyInfo.cs
+D:\Data\InterviewPrep\TransferSchedules\obj\Debug\net9.0\TransferSchedules.csproj.CoreCompileInputs.cache
+D:\Data\InterviewPrep\TransferSchedules\obj\Debug\net9.0\TransferSchedules.dll
+D:\Data\InterviewPrep\TransferSchedules\obj\Debug\net9.0\refint\TransferSchedules.dll
+D:\Data\InterviewPrep\TransferSchedules\obj\Debug\net9.0\TransferSchedules.pdb
+D:\Data\InterviewPrep\TransferSchedules\obj\Debug\net9.0\TransferSchedules.genruntimeconfig.cache
+D:\Data\InterviewPrep\TransferSchedules\obj\Debug\net9.0\ref\TransferSchedules.dll
